@@ -8,7 +8,7 @@ const config = require ('./utils/config');
 //import the app modul
 const app = require ('./app');
 //console.log the message connecting to MongoDB followed by the URI without the password
-console.log('Connecting to MongoDB..')
+console.log('Connecting to MongoDB.....')
 //connect to DB
 mongoose.connect(config.MONGODB_URI)
   .then(() => {
