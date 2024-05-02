@@ -1,0 +1,19 @@
+{
+  "name": "fsd_be",
+  "version": "1.0.0",
+  "description": "Backend application with nodeJS+ExpressJS+MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reshma2996/FSD_BE.git"
+  },
+  "author": "Reshma R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reshma2996/FSD_BE/issues"
+  },
+  "homepage": "https://github.com/Reshma2996/FSD_BE#readme"
+}
