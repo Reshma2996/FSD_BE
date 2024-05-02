@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Reshma2996/FSD_BE/issues"
   },
-  "homepage": "https://github.com/Reshma2996/FSD_BE#readme"
+  "homepage": "https://github.com/Reshma2996/FSD_BE#readme",
+  "dependencies": {
+    "mongoose": "^8.3.3"
+  }
 }

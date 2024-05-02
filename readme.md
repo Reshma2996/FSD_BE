@@ -11,3 +11,10 @@ Backend application is a RESTful API built with Node.js and Express.js, It uses 
     -`MONGODB_URI` : MongoDB connection string
     - `PORT`: Port Number for the server
 4. Run `npm run dev` to start the server
+## API Endpoints
+
+## License
+
+## Libraries Used
+
+- mangoose: MongoDB object modelling tool. It is used to interact with MongoDB Database. We use this instead of mongoDB driver because it provides a simple schema-based solution to model our application data
